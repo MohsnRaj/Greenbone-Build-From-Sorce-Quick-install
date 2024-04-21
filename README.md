@@ -4,9 +4,9 @@
 Greenbone is the world’s most trusted provider of open source vulnerability management. Their core competence lies in developing algorithms and programs that detect vulnerabilities in customers’ IT systems before attackers can exploit them. Founded in 2008, Greenbone has been a pioneer in this field, helping organizations identify security weaknesses and reduce the risk and impact of cyber attacks. Their feed includes over 150,000 vulnerability tests, and they continuously work to add more tests that identify newly discovered vulnerabilities. With a strong market presence, over 50,000 installations worldwide, and solutions available in three product lines (hardware, virtual, and cloud), Greenbone is committed to proactive security for businesses and government agencies of all sizes.
 
 there are so many ways to use Greenbone such as:<br>
-&emsp;a. [Greenbone Community Containers](https://www.google.com) <br>
-&emsp;b. [Building from Source](https://greenbone.github.io/docs/latest/22.4/source-build/index.html)<br>
-&emsp;c. [Kali Linux Install Guide](https://greenbone.github.io/docs/latest/22.4/kali/index.html)<br>
+&emsp;<i>:pushpin:</i>a. [Greenbone Community Containers](https://www.google.com) <br>
+&emsp;<i>:pushpin:</i>b. [Building from Source](https://greenbone.github.io/docs/latest/22.4/source-build/index.html)<br>
+&emsp;<i>:pushpin:</i>c. [Kali Linux Install Guide](https://greenbone.github.io/docs/latest/22.4/kali/index.html)<br>
 
 &ensp;for the first way i put my guidline on my linkdin Page to install the Greenbone as fasr as you can! <br>
 for the second way as you can see thare is a long way with so many operations that you should do to have a clear installation or so one little mistake can make a big problem for you and making you confuse and take so much time to solve it!<br>
@@ -48,9 +48,9 @@ after running the above operation the sudoers.tmp is open so you shoud add the f
 ```
 <pr>
 and now you should almost ready to run the Bash file but before that pay some attention at this hints:<br>
-&emsp;a. ensure you connection is stable.<br>
-&emsp;b. some of link that you should download file from it has slow speed connection so you should pay patiant!<br>
-&emsp;c. don't forgot to give me Star! <br>
+&emsp;<i>:pushpin:</i>a. ensure you connection is stable.<br>
+&emsp;<i>:pushpin:</i>b. some of link that you should download file from it has slow speed connection so you should pay patiant!<br>
+&emsp;<i>:pushpin:</i>c. don't forgot to give me Star! <br>
 
 at the end run the following cmd:
 ```
